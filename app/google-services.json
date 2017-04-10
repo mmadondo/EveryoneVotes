@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979307736707",
+    "firebase_url": "https://everyonevotes-f4ead.firebaseio.com",
+    "project_id": "everyonevotes-f4ead",
+    "storage_bucket": "everyonevotes-f4ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979307736707:android:32cca4c50e2feab3",
+        "android_client_info": {
+          "package_name": "commmadondo.github.everyonevotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979307736707-qq42c3trjch96qgh1drd98k9uqg4059a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "commmadondo.github.everyonevotes",
+            "certificate_hash": "65c9590523b036f88170896cc89a252381d9f26d"
+          }
+        },
+        {
+          "client_id": "979307736707-kan7eqjbua15bu79ac9r29o6vi913qqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp-Fj5OrX5gTx1lUU-n1cRaPPicDohttM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979307736707-kan7eqjbua15bu79ac9r29o6vi913qqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
